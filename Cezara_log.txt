@@ -1,0 +1,3 @@
+08.04.2016: 
+	 -  reading about Scholarly HTML
+	  - am cautat cum va arata pagina de login, search si pagina principala + wireframing
