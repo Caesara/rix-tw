@@ -2,3 +2,4 @@
 	 -  am citit despre Scholarly HTML
 	 -  am cautat instrmente pt wireframing
 	 -  am cautat cum va arata pagina de login, search si pagina principala + printscreen wireframing
+	 - am creat prima diagrama use case 
