@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="Arial" font-size="13" width="830" height="315">
+	<desc>UML diagram model</desc>
+	<g id="_8yXKUv2WEeW9zv77lynsJg">
+		<defs>
+			<linearGradient id="greyGradient" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" />
+				<stop offset="100%" stop-color="#EEEEEE" stop-opacity="1" />
+				
+			</linearGradient>
+			<linearGradient id="packageGradient" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" />
+				<stop offset="100%" stop-color="#EFE9DE" stop-opacity="0.4" />
+				
+			</linearGradient>
+			<linearGradient id="executionSpecificationGradient" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad">
+				<stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" />
+				<stop offset="100%" stop-color="#EFE9DE" stop-opacity="1" />
+				
+			</linearGradient>
+			
+		</defs>
+		<g id="_YXofEN_IEDO6q9wxfyFEEw">
+			<ellipse cx="70" cy="148" rx="6" ry="6" fill="#FFF" stroke="#888" stroke-width="2.0" />
+			<line x1="70" y1="154" x2="70" y2="185" stroke-width="2.0" stroke="#888" />
+			<line x1="56" y1="166" x2="84" y2="166" stroke-width="2.0" stroke="#888" />
+			<line x1="70" y1="185" x2="59" y2="203" stroke-width="2.0" stroke="#888" />
+			<line x1="70" y1="185" x2="80" y2="203" stroke-width="2.0" stroke="#888" />
+			<text x="70" y="205" text-anchor="middle" font-style="normal" font-weight="normal" fill="black">
+				<tspan x="70" text-anchor="middle" dy="13">User</tspan>
+				
+			</text>
+			
+		</g>
+		<g id="_Zc1MkN_IEDO6q9wxfyFEEw">
+			<ellipse cx="250" cy="138" rx="50" ry="28" fill="url(#greyGradient)" stroke="#BBBBBB" stroke-width="1.0" />
+			<g transform="translate(200,131.0)">
+				<text x="50" y="0" text-anchor="middle" font-style="normal" font-weight="bold" fill="#033656">
+					<tspan x="50" text-anchor="middle" dy="13">Login</tspan>
+					
+				</text>
+				
+			</g>
+			
+		</g>
+		<g id="_aesSMN_IEDO6q9wxfyFEEw">
+			<ellipse cx="250" cy="228" rx="50" ry="28" fill="url(#greyGradient)" stroke="#BBBBBB" stroke-width="1.0" />
+			<g transform="translate(200,221.0)">
+				<text x="50" y="0" text-anchor="middle" font-style="normal" font-weight="bold" fill="#033656">
+					<tspan x="50" text-anchor="middle" dy="13">Logout</tspan>
+					
+				</text>
+				
+			</g>
+			
+		</g>
+		<g id="_cp8BwN_IEDO6q9wxfyFEEw">
+			<ellipse cx="250" cy="48" rx="50" ry="28" fill="url(#greyGradient)" stroke="#BBBBBB" stroke-width="1.0" />
+			<g transform="translate(200,41.0)">
+				<text x="50" y="0" text-anchor="middle" font-style="normal" font-weight="bold" fill="#033656">
+					<tspan x="50" text-anchor="middle" dy="13">Register</tspan>
+					
+				</text>
+				
+			</g>
+			
+		</g>
+		<g id="_fDPbcN_IEDO6q9wxfyFEEw">
+			<ellipse cx="510" cy="48" rx="50" ry="28" fill="url(#greyGradient)" stroke="#BBBBBB" stroke-width="1.0" />
+			<g transform="translate(460,41.0)">
+				<text x="50" y="0" text-anchor="middle" font-style="normal" font-weight="bold" fill="#033656">
+					<tspan x="50" text-anchor="middle" dy="13">Add into DB</tspan>
+					
+				</text>
+				
+			</g>
+			
+		</g>
+		<g id="_g88IAN_IEDO6q9wxfyFEEw">
+			<ellipse cx="510" cy="138" rx="50" ry="28" fill="url(#greyGradient)" stroke="#BBBBBB" stroke-width="1.0" />
+			<g transform="translate(460,124.5)">
+				<text x="50" y="0" text-anchor="middle" font-style="normal" font-weight="bold" fill="#033656">
+					<tspan x="50" text-anchor="middle" dy="13">Enter</tspan>
+					<tspan x="50" text-anchor="middle" dy="13">username</tspan>
+					
+				</text>
+				
+			</g>
+			
+		</g>
+		<g id="_iqWsEN_IEDO6q9wxfyFEEw">
+			<ellipse cx="510" cy="238" rx="50" ry="28" fill="url(#greyGradient)" stroke="#BBBBBB" stroke-width="1.0" />
+			<g transform="translate(460,224.5)">
+				<text x="50" y="0" text-anchor="middle" font-style="normal" font-weight="bold" fill="#033656">
+					<tspan x="50" text-anchor="middle" dy="13">Enter</tspan>
+					<tspan x="50" text-anchor="middle" dy="13">password</tspan>
+					
+				</text>
+				
+			</g>
+			
+		</g>
+		<g id="_lp8psN_IEDO6q9wxfyFEEw">
+			<ellipse cx="730" cy="188" rx="50" ry="28" fill="url(#greyGradient)" stroke="#BBBBBB" stroke-width="1.0" />
+			<g transform="translate(680,174.5)">
+				<text x="50" y="0" text-anchor="middle" font-style="normal" font-weight="bold" fill="#033656">
+					<tspan x="50" text-anchor="middle" dy="13">Search into</tspan>
+					<tspan x="50" text-anchor="middle" dy="13">DB</tspan>
+					
+				</text>
+				
+			</g>
+			
+		</g>
+		<g id="_aN6EMd_IEDO6q9wxfyFEEw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="90,175 200,149" />
+			
+		</g>
+		<g id="_b4gk0d_IEDO6q9wxfyFEEw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="90,185 200,214" />
+			
+		</g>
+		<g id="_dcrGQd_IEDO6q9wxfyFEEw">
+			<polyline fill="none" stroke-width="1" stroke="#000000" points="90,165 213,75" />
+			
+		</g>
+		<g id="_gYdh8N_IEDO6q9wxfyFEEw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="300,48 460,48" />
+			<g transform="translate(460,48)">
+				<g transform="rotate(90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-4,8 0,0 4,8" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_iOlWEN_IEDO6q9wxfyFEEw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="300,138 460,138" />
+			<g transform="translate(460,138)">
+				<g transform="rotate(90)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-4,8 0,0 4,8" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_j7FUIN_IEDO6q9wxfyFEEw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="300,157 460,218" />
+			<g transform="translate(460,218)">
+				<g transform="rotate(111)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-4,8 0,0 4,8" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_oxGn4N_IEDO6q9wxfyFEEw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="560,149 680,176" />
+			<g transform="translate(680,176)">
+				<g transform="rotate(103)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-4,8 0,0 4,8" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<g id="_pFFT0N_IEDO6q9wxfyFEEw">
+			<polyline stroke-dasharray="1, 2" fill="none" stroke-width="1" stroke="#000000" points="560,226 680,199" />
+			<g transform="translate(680,199)">
+				<g transform="rotate(77)">
+					<polyline fill="none" stroke-width="1" stroke="#000000" points="-4,8 0,0 4,8" />
+					
+				</g>
+				
+			</g>
+			
+		</g>
+		<text x="356" y="39" fill="#000000">« include »</text>
+		<text x="356" y="129" fill="#000000">« include »</text>
+		<text x="356" y="179" fill="#000000">« include »</text>
+		<text x="596" y="154" fill="#000000">« include »</text>
+		<text x="596" y="204" fill="#000000">« include »</text>
+		
+	</g>
+	
+</svg>
