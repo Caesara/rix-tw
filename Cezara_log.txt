@@ -3,3 +3,6 @@
 	 -  am cautat instrmente pt wireframing
 	 -  am cautat cum va arata pagina de login, search si pagina principala + printscreen wireframing
 	 -  am creat prima diagrama use case folosind genmymodel.com
+13.04.2016:
+	 -  am scris la raportul tehnic
+
