@@ -5,4 +5,5 @@
 	 -  am creat prima diagrama use case folosind genmymodel.com
 13.04.2016:
 	 -  am scris la raportul tehnic
+	 -  am lucrat la diagrama de componente
 
